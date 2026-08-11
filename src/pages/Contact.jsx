@@ -25,7 +25,7 @@ function Contact () {
 
                     <div className="info-card">
                         <h3>Linkedin</h3>
-                        <p><a href="www.linkedin.com/in/rakhi-nagrale-7b73a1287">View Profile</a></p>
+                        <p><a href="https://www.linkedin.com/in/rakhi-nagrale-7b73a1287">View Profile</a></p>
                     </div>
 
                     <div className="info-card">
